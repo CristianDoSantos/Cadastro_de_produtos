@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "caderno",
+      "price": "10",
+      "id": 1
+    },
+    {
+      "name": "Caneta Preta",
+      "price": "2",
+      "id": 2
+    }
+  ]
+}
